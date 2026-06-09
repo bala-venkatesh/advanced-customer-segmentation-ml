@@ -1,0 +1,38 @@
+venv/
+**pycache**/
+.ipynb_checkpoints/
+
+# Python cache
+
+*.pyc
+*.pyo
+
+# Models
+
+*.pkl
+
+# Dataset files
+
+*.csv
+*.xlsx
+
+# Jupyter
+
+*.ipynb_checkpoints
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# VS Code
+
+.vscode/
+
+# Streamlit cache
+
+.streamlit/
+
+# Environment variables
+
+.env
