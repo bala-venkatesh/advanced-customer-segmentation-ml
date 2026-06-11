@@ -299,15 +299,30 @@ Used DBSCAN to:
 ```text
 advanced-customer-segmentation-ml/
 
-├── data/
-├── notebooks/
-├── models/
 ├── dashboard/
+│   └── Customer_Segmentation.pbix
+
 ├── images/
+│   ├── 01_customer_intelligence_dashboard.png
+│   ├── 02_behavioral_analytics_dashboard.png
+│   └── 03_key_findings_dashboard.png
+│   └── project_workflow.png
+
+├── notebooks/
+│   ├── Data Cleaning
+│   ├── Feature Engineering
+│   ├── PCA Analysis
+│   ├── K-Means Clustering
+│   └── DBSCAN Analysis
+
 ├── reports/
+│   ├── Project Summary
+│   └── Final Report
+
 ├── README.md
 ├── requirements.txt
-└── LICENSE
+├── LICENSE
+└── .gitignore
 ```
 
 ---
@@ -350,14 +365,9 @@ This project demonstrates:
 
 # 👨‍💻 Author
 
-**Bala Venkatesh**
+**Bala Venkatesh G**
 
 Big Data Engineer | Analytics Enthusiast
-
-### Connect
-
-- LinkedIn
-- GitHub
 
 ---
 
