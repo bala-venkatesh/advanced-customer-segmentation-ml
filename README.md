@@ -190,7 +190,7 @@ Used DBSCAN to:
 
 ### Dashboard Preview
 
-![Executive Dashboard](images/01_executive_dashboard.png)
+![Executive Dashboard](images/01_customer_intelligence_dashboard.png)
 
 ---
 
@@ -218,7 +218,7 @@ Used DBSCAN to:
 
 ### Dashboard Preview
 
-![Behavioral Dashboard](images/02_behavioral_dashboard.png)
+![Behavioral Dashboard](images/02_behavioral_analytics_dashboard.png)
 
 ---
 
