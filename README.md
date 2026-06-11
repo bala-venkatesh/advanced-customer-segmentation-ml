@@ -72,28 +72,7 @@ The dataset contains:
 ---
 
 # ⚙️ Project Workflow
-
-```text
-Retail Transaction Dataset
-            ↓
-      Data Cleaning
-            ↓
-   Feature Engineering
-            ↓
-        RFM Analysis
-            ↓
-            PCA
-            ↓
-     K-Means Clustering
-            ↓
-      DBSCAN Analysis
-            ↓
- Customer Persona Creation
-            ↓
- Behavioral Analytics
-            ↓
-    Power BI Dashboard
-```
+![Work Flow](images/project_workflow.png)
 
 ---
 
